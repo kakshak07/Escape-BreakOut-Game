@@ -1,4 +1,4 @@
-# Ben-Ryder 2019
+
 import os
 
 import paths
