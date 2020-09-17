@@ -17,8 +17,6 @@ The toughest enemy to outwit. These will chase after you as long as you are out 
 
 ## Editor
 The editor can be used to create custom levels which can then be loaded in and played. Simply pick a tile size and resolution then start adding tiles and enemies. When adding an enemy patrol, if you click and hold for at least 1 second the enemy will pause for that amout of time on the tile.   
-If you would like to share any level you make I would be happy to add it into the game. Simply open a feature request [here](https://github.com/Ben-Ryder/Escape/issues).
-
 ### Troublshooting
 If your level fails to load, check the `main.log` file, it might help point out the problem. If you are still unsure, or think it's a bug let me know. 
 Here are a few things to remember:
