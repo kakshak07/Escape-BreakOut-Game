@@ -1,6 +1,4 @@
-# (not ready)
 
-# This Editor is specific to my game Sense (see github.com/Ben-Ryder/Sense), although could be adapted and simplified
 # to create a simple tiled based, with "walls and paths", ie 2 choices for the tile.
 import os
 import pygame
