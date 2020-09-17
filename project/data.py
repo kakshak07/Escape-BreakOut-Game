@@ -1,4 +1,4 @@
-# Ben-Ryder 2019
+
 # Currently using JSON as method of level save
 
 import json
